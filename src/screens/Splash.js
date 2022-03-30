@@ -38,7 +38,7 @@ export default function Splash({ navigation }) {
                     styles.text
                 ]}
             >
-                Mash To-Do List
+                To-Do List
             </Text>
         </View>
     )
